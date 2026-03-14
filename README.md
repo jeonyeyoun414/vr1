@@ -1,6 +1,7 @@
 # vr1
 
-v0
+version: main
+
 hello
 
 web: Hi!
