@@ -1,6 +1,6 @@
 # vr1
 
-version: main
+version: v0
 
 hello
 
